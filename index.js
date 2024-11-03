@@ -98,7 +98,7 @@ function isValidInput(board){
 
             if(board[j][i]!==0){
                 if(colCheck.has(board[j][i])) return false;
-                rowCheck.add(board[j][i]);
+                colCheck.add(board[j][i]);
             }
         }
     }
