@@ -1,1 +1,3 @@
 # sudoku-solver
+# Made a Sudoku Solver, clearing fundamental concepts of backtracking...
+![image](https://github.com/user-attachments/assets/ed0a31bf-bf9b-4503-9121-f952b7dd34e3)
